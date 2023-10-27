@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/CCOLLOT/appnametochange/cmd"
+	"github.com/CCOLLOT/my-app-foo/cmd"
 )
 
 func main() {

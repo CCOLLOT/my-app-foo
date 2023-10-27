@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/CCOLLOT/appnametochange/internal/server"
+	"github.com/CCOLLOT/my-app-foo/internal/server"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )
@@ -32,7 +32,7 @@ func New(log *zap.Logger) (*App, error) {
 }
 
 func (app *App) Name() string {
-	return "appnametochange"
+	return "my-app-foo"
 }
 
 func (app *App) Start() error {

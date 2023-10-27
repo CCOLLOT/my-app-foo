@@ -1,4 +1,4 @@
-module github.com/CCOLLOT/appnametochange
+module github.com/CCOLLOT/my-app-foo
 
 go 1.20
 

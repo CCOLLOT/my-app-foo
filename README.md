@@ -1,4 +1,4 @@
-### Go application appnametochange repository
+### Go application my-app-foo repository
 
 
 ### Architecture
